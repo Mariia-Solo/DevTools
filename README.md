@@ -1,5 +1,7 @@
 # DevTools
-Home Work https://youtu.be/XZHQiMQqTos (видео с выполнением домашнего задания)
+Home Work 
+
+:white_check_mark: :movie_camera: **[видео с выполнением домашнего задания](https://youtu.be/XZHQiMQqTos)**
 
 Задачи:
 
